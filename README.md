@@ -16,7 +16,7 @@ results.info_primary = <p>This recommendation is based on the size that <b>peopl
 
 ## Task
 
-Create a new file so that the key-value structure persist but the values are translated two a pseudo-language:
+Create a new file so that the key-value structure persist but the values are translated into a pseudo-language:
 ``` 
 shoes.type.categories.m.loafers = Ŀǿǿȧȧƒḗḗřş
 shoes.type.categories.m.oxfords = ǾǾẋƒǿǿřḓş
