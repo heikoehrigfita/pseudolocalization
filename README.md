@@ -32,7 +32,7 @@ Do not transform HTML tags like `<p>,</p><span class='...'>, <div>, <b>, </b>` a
 
 Save the file.
 
-Please use the `LETTER_MAPPING
+Please use the `LETTER_MAPPING`
 
 ```
 LETTER_MAPPING = {
@@ -87,7 +87,7 @@ LETTER_MAPPING = {
   y: 'ẏ',
   Y: 'Ẏ',
   z: 'ẑ',
-  Z: 'Ẑ',
+  Z: 'Ẑ'
 };
 
 ```
